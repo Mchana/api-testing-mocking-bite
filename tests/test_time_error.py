@@ -1,7 +1,5 @@
 from unittest.mock import Mock
 from lib.time_error import TimeError
-# import time
-# import requests
 
 def test_return_difference():
     requester_mock = Mock()
